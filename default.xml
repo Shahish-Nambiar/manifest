@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github" fetch="https://github.com/Shahish-Nambiar"/>
+           
+  <default revision="master" remote="github" sync-j="4" />
+  
+  <project path="linux-app" name="app"/>
+  <project path="linux-driver" name="driver"/>
+
+</manifest>
