@@ -2,7 +2,7 @@
 <manifest>
   <remote  name="github" fetch="https://github.com/Shahish-Nambiar"/>
            
-  <default revision="master" remote="github" sync-j="4" />
+  <default revision="main" remote="github" sync-j="4" />
   
   <project path="linux-app" name="linux-app"/>
   <project path="linux-driver" name="linux-driver"/>
